@@ -58,4 +58,7 @@
   <a href="https://linkedin.com/in/cihat-aydin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://cihataydin.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=markdown&logoColor=white" />
+  </a>
 </p>
