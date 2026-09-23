@@ -1,46 +1,61 @@
-### Hi there 👋, I'm Cihat Aydın
+<h1 align="center">Hi there 👋, I'm Cihat Aydın</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Developer-005571?style=for-the-badge&logo=codeforces&logoColor=white" alt="Backend Developer" />
+  <img src="https://img.shields.io/badge/Istanbul,_Turkey-222222?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/5%252B_Years_Experience-F24E1E?style=for-the-badge&logo=cv&logoColor=white" alt="Experience" />
+</p>
+
+<p align="center">
+  <em>Dedicated Software Developer focused on system design, microservices, and building scalable, robust backend solutions.</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🌱 Passionate about **system architecture**, **clean code**, and modern backend patterns.
+* 🔭 Currently exploring advanced event-driven systems and distributed architectures.
+* ♟️ Outside of coding, I enjoy playing chess, swimming, and street workout.
+
+---
+
+### 🛠️ Core Skills & Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Backend_Developer-000?style=for-the-badge&logo=codeforces&logoColor=orange" alt="Backend Developer" />
-  <img src="https://img.shields.io/badge/Istanbul,_Turkey-005571?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-A dedicated Software Developer with **5+ years of experience**, focused on system design and architecture. Passionate about building robust, scalable, and high-performance backend solutions.
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-- 🔭 Currently exploring advanced microservice architectures, event-driven systems, and modern backend tooling.
-- 💬 Always open to discussing system design, clean code, and backend optimization.
-- ♟️ When I'm not coding, you can find me playing chess, swimming, or doing street workout.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | C#, TypeScript, JavaScript, Python, PHP |
-| **Frameworks & Core** | .NET (.NET Core, ABP Framework), Node.js (NestJS) |
-| **Architecture & Concepts** | Microservices, Modular Monolith, Event-Driven Architecture (NATS), RESTful APIs |
-| **Databases & Caching** | PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Redis |
-| **DevOps & Cloud** | Docker, AWS (EC2), DigitalOcean (Droplet), Render, Nginx, Nx, Git, TFS |
-
----
-
-### 🚀 Featured Projects
-
-* **[Fleet Manager (Milvus Robotics)](https://github.com/cihataydin):** Contributed to the architectural migration of an AMR (Autonomous Mobile Robots) control panel from a monolith to a domain-driven microservice structure and later into a modular monolith using Nx. Implemented low-latency inter-service communication via NATS and developed 10+ distinct microservice APIs. *(NestJS, TypeScript, Microservices, NATS, PostgreSQL, MongoDB, Docker, Nx)*
-* **[tercihi.com](https://github.com/cihataydin):** A personal web platform enabling university candidates to search for programs matching their scores on an interactive map. *(NestJS, PostgreSQL, Redis, Docker, DigitalOcean, Nginx)*
-* **[CMS & Hospitality Solutions (Nevotek)](https://github.com/cihataydin):** Engineered end-to-end backend services and Content Management Systems (CMS) from scratch for in-room hospitality solutions and TV applications using the ABP framework and .NET. *(.NET 6/Framework, ABP, MSSQL)*
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cihataydin&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="Cihat's GitHub Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-2785C4?style=for-the-badge&logo=nats&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Get in Touch
-- **Email:** cihataydin.tr@gmail.com
-- **LinkedIn:** [in/cihat-aydin](https://www.linkedin.com/in/cihat-aydin)
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:cihataydin.tr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/cihat-aydin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
