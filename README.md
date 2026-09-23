@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Backend_Developer-005571?style=for-the-badge&logo=codeforces&logoColor=white" alt="Backend Developer" />
   <img src="https://img.shields.io/badge/Istanbul,_Turkey-222222?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/5%252B_Years_Experience-F24E1E?style=for-the-badge&logo=cv&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/5%2B_Years_Experience-F24E1E?style=for-the-badge&logo=cv&logoColor=white" alt="Experience" />
 </p>
 
 <p align="center">
