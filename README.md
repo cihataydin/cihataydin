@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Dedicated Software Developer focused on system design, microservices, and building scalable, robust backend solutions.</em>
+  <em>Dedicated Software Developer focused on system design and building scalable, robust backend solutions.</em>
 </p>
 
 ---
