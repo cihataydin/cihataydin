@@ -15,7 +15,6 @@
 ### 👨‍💻 About Me
 
 * 🌱 Passionate about **system architecture**, **clean code**, and modern backend patterns.
-* 🔭 Currently exploring advanced event-driven systems and distributed architectures.
 * ♟️ Outside of coding, I enjoy playing chess, swimming, and street workout.
 
 ---
@@ -40,7 +39,6 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/NATS-2785C4?style=for-the-badge&logo=nats&logoColor=white" />
